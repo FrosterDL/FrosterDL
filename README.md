@@ -1,5 +1,51 @@
-# 💫 About Me:
-👋 Hello, I'm Taha Muhammad Shafiq!<br>I'm a passionate Security Engineer with a deep interest in identifying and resolving security vulnerabilities across various platforms and systems. My expertise lies in simulating real-world attacks to assess the strength of defenses and ensure a more secure digital environment.<br><br>🔭 I’m currently working on:<br>Conducting security assessments and penetration tests for web applications, networks, and mobile applications.<br>Developing scripts and tools to automate repetitive tasks in the penetration testing process.<br>Researching zero-day vulnerabilities and staying up-to-date with the latest trends in the cybersecurity landscape.<br>🤝 I’m looking to collaborate on:<br>Open-source cybersecurity projects focused on enhancing security tools and frameworks.<br>Projects related to exploit development or advanced vulnerability research.<br>Sharing knowledge and collaborating on CTFs (Capture the Flag) challenges and security competitions.<br>🌱 I’m currently learning:<br>Advanced exploit development and reverse engineering.<br>Improving my skills in cloud security (AWS, Azure, GCP).<br>Exploring the use of AI/ML in the context of cybersecurity for threat detection and prevention.<br>💬 Ask me about:<br>Penetration Testing, ethical hacking, and vulnerability assessments.<br>Tips on report writing and making security findings clear to both technical and non-technical stakeholders.<br>How to get started in the cybersecurity field and succeed in bug bounty hunting.<br>📫 How to reach me:<br>You can find me on www.linkedin.com/in/tahamuhammadshafiq. I’m always happy to connect with fellow cybersecurity enthusiasts!
+# 👋 Hello, I'm Taha Muhammad Shafiq!
+
+I'm a **Cybersecurity Engineer and Security Researcher** with **4+ years of professional experience** in cybersecurity. Throughout my career, I've worked with **financial institutions and government organizations in the Kingdom of Saudi Arabia (KSA)**, contributing to the security and resilience of their applications, systems, and IT infrastructure.
+
+With a background in **Software Development**, I bring a unique perspective to cybersecurity. Having experience in both **building software and understanding how it can be broken**, I approach security challenges with a deeper understanding of software architecture, application behavior, and potential attack surfaces.
+
+My professional interests span **Offensive Security, Application Security, Infrastructure Security, Vulnerability Research, and Security Engineering**. Beyond my professional work, I'm actively involved in **Security Research**, with a particular interest in **Post-Quantum Cryptography (PQC)** and the future of cryptographic security.
+
+## 🔭 Areas of Focus
+
+- **Cybersecurity Engineering:** Enhancing the security and resilience of enterprise applications, systems, and infrastructure.
+- **Offensive Security:** Understanding modern attack techniques, identifying potential weaknesses, and evaluating security from an adversarial perspective.
+- **Security Research:** Exploring emerging vulnerabilities, evolving threats, and advancements in cybersecurity.
+- **Secure Software Development:** Combining software engineering knowledge with security principles to better understand and safeguard modern applications.
+- **Post-Quantum Cryptography (PQC):** Researching quantum-resistant cryptographic approaches and their role in securing next-generation digital systems.
+
+## 🌱 Currently Exploring
+
+- Post-Quantum Cryptography (PQC) and quantum-resistant security.
+- Advanced vulnerability research and emerging attack techniques.
+- Cloud security and modern infrastructure protection.
+- Artificial Intelligence and Machine Learning in cybersecurity.
+- Emerging technologies and their implications for digital security.
+
+## 🤝 Open to Collaboration
+
+I'm always interested in collaborating with fellow **security researchers, cybersecurity engineers, developers, and technology enthusiasts** on:
+
+- Open-source cybersecurity projects and security tools.
+- Post-Quantum Cryptography and cryptographic research.
+- Vulnerability research and security-focused initiatives.
+- Projects bridging the gap between software engineering and cybersecurity.
+- Knowledge sharing and emerging security technologies.
+
+## 💬 Ask Me About
+
+**Cybersecurity Engineering** • **Offensive Security** • **Application Security** • **Vulnerability Research** • **Secure Software Development** • **Post-Quantum Cryptography**
+
+## 📫 Connect With Me
+
+I'm always open to meaningful discussions, exchanging ideas, and collaborating on interesting projects.
+
+- 🌐 **Website:** [frosterdl.vercel.app](https://frosterdl.vercel.app)
+- 💼 **LinkedIn:** [linkedin.com/in/tahamuhammadshafiq](https://www.linkedin.com/in/tahamuhammadshafiq/)
+
+---
+
+*"Understanding how systems are built is the foundation of understanding how they can be broken, and ultimately, how they can be secured."*
 
 
 ## 🌐 Socials:
